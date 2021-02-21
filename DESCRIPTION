@@ -1,4 +1,4 @@
-Package: AlpacaforR_jagg
+Package: AlpacaforRjagg19
 Title: Trade with Alpaca using R
 Version: 0.1.0.9000
 Authors@R: person("Jagger", "Villalobos", email = "jagger.vill@gmail.com", role = c("aut", "cre"))
